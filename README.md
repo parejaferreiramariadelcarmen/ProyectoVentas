@@ -16,3 +16,4 @@ Finalmente como aportación personal:
     - $subtract
     - $sort
     - $round
+    - $addToSet
